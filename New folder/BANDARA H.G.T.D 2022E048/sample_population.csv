@@ -1,0 +1,11 @@
+id,county,age,gender,racename,population,country
+1,Alameda,15,Female,White,120,USA
+2,Imperial,22,Male,Hispanic,95,USA
+3,Inyo,10,Male,Asian,60,USA
+4,Inyo,12,Female,Black,70,USA
+5,Alameda,15,Female,Asian,110,USA
+6,Imperial,30,Male,White,80,USA
+7,Inyo,6,Male,Hispanic,55,USA
+8,Inyo,14,Female,White,65,USA
+9,Alameda,17,Female,Black,90,USA
+10,Imperial,45,Male,Asian,100,USA
